@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "name": "Su Sonya Herring",
+      "department": "Solist",
+      "salary": 5000,
+      "id": 1
+    },
+    {
+      "name": "Güneş Özgeç",
+      "department": "Virtüöz",
+      "salary": 80000,
+      "id": 2
+    }
+  ]
+}
